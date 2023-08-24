@@ -20,7 +20,7 @@ Once you have Java installed, follow these steps:
 
 Clone this repository to your local machine using the following command on your Git Bash :
 
-git clone https://github.com/TONKAFREAK/snakeGame.git
+git clone https://github.com/TONKAFREAK/Simple_Snake-Game.git
 
 Compile the Java code using the following command:
 
